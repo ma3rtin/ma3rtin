@@ -21,7 +21,7 @@ Graduate from Universidad Nacional de La Matanza. I love tackling challenging pr
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma3rtin&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ma3rtin&theme=tokyonight)
 
 ## 📫 Let's Connect
 
